@@ -1,0 +1,20 @@
+<!doctype html> 
+<html>
+
+	<head>
+		<title> Taylor Dube </title>
+		<link href="style.css" rel="stylesheet">
+	</head> 
+	
+	<p><h1> Taylor Dube </h1></p> 
+<img src="https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-9/13781734_1254497681229946_8440470579321921461_n.jpg?oh=7b15f61b91f212d6c868b1b976e89abf&oe=58B70273"
+	<body> 
+	<p>Welcome to my website! I am a student at <A HREF="https://umaine.edu/"> UMaine </A> at Orono, studying Marketing and Communications. I am a sister in Alpha Phi, work in the Student Wellness Resource Center and serve as Vice President of Marketing for UMaine Dance Marathon. On my website you can find all the organizations I am apart of and what they mean to me! </p>
+
+	<p>Links
+	<UL>
+	<LI> <a href="about.html">About Me</a></LI> 
+    <LI> <a href="aphi.html">Alpha Phi</a></LI>
+    <LI> <a href="dance.html"> Dance Marathon</a></LI>
+    <LI> Home </LI>
+</UL>

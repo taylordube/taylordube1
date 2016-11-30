@@ -1,0 +1,20 @@
+ <html>
+ <title> Alpha Phi </title>
+ <link href="style.css" rel="stylesheet">
+ <h1> Alpha Phi </h1> 
+<body> 
+<img src="https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/12813905_1058492224215220_2067778383276792070_n.jpg?oh=cc2164d9fde11309ca80786705045718&oe=58B82AC8"
+
+<p>I joined Alpha Phi my freshman year of college. Our philanthropy is the Alpha Phi Foundation, which raises money for women's heart health and for leadership opporunities for our organization. I am currently the Director of Sisterhood and help plan our philanthropy events. </p> 
+
+
+
+
+<p>Links
+	<UL>
+	<LI> <a href="about.html">About Me</a></LI> 
+    <LI> Alpha Phi</LI>
+    <LI> <a href="dance.html"> Dance Marathon</a></LI>
+     <LI> <a href="website 1.html">home</a></LI>
+    
+</UL> </p>

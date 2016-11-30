@@ -1,0 +1,17 @@
+<title>about me </title> 
+<body> 
+<h1> About Me </h1> 
+<link href="style.css" rel="stylesheet">
+
+<p>I was born and raised in Lewiston, Maine. I am currently twenty years old and I'm a junior in college. I go to <A HREF="https://umaine.edu/"> University of Maine</A> and I study Communications and Marketing. I am in Alpha Phi, and I am currently the Director of Sisterhood in my chapter. I also am part of the University of Maine Miracle Network Dance Marathon, as the Vice President of Marketing. My favorite things to do are cook, watch Netflix and go on pinterest. </p> 
+
+
+
+<p>Links
+	<UL>
+	<LI> About Me</LI> 
+    <LI> <a href="aphi.html">Alpha Phi</a></LI>
+    <LI> <a href="dance.html"> Dance Marathon</a></LI>
+    <LI> <a href="umaine.html">UMaine</a></LI>
+     <LI> <a href="website 1.html">Home</a></LI>
+</UL></P> 
